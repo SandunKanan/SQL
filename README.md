@@ -1,4 +1,5 @@
 # SQL
 Learning SQL
 
-Join.sql - Exercises from 
+Join.sql - PostgreSQL exercises from
+https://pgexercises.com/
